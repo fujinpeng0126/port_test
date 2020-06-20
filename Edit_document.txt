@@ -2,3 +2,4 @@ github的文档建设笔记
 git的文档修改，vim解决了乱码问题
 git右键，点击设置loca语音utf-8
 set nu ,设置文件页码
+设置了gbk格式看看是不是还会提交乱码
