@@ -5,4 +5,5 @@ set nu ,设置文件页码
 设置了gbk格式看看是不是还会提交乱码
 设置了全局的global为utf-8格式
 git diff 修改的一行
-fu qi le de xia yi ci ti jiao 
+fu qi le de xia yi ci ti jiao
+diff duibi tijiao
