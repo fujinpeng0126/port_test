@@ -10,3 +10,5 @@ diff duibi tijiao
 ---zui hou de ---
 love git
 设置了git .ssh
+stash保存一次再恢复
+fen zhi branch chuangjian 
