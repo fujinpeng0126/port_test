@@ -8,3 +8,4 @@ git diff 修改的一行
 fu qi le de xia yi ci ti jiao
 diff duibi tijiao
 ---zui hou de ---
+love git
