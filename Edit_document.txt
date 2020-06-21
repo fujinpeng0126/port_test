@@ -11,4 +11,5 @@ diff duibi tijiao
 love git
 设置了git .ssh
 stash保存一次再恢复
-fen zhi branch chuangjian 
+fen zhi branch chuangjian
+不指定分支名进行提交，no name
